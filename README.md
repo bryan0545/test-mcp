@@ -12,3 +12,10 @@ Este proyecto está diseñado para realizar tests y pruebas de funcionalidad rel
 - Realizar pruebas de integración
 - Validar diferentes casos de uso
 - Documentar aprendizajes y descubrimientos
+
+## Screenshots
+
+### Clasificación de Cuentas
+![Clasificación de Cuentas](./clasificacion-cuentas.png)
+
+*Interfaz de clasificación de cuentas contables mostrando categorías patrimoniales y cuentas asociadas.*
